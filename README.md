@@ -1,2 +1,2 @@
-# calculadora-tkinter
-Calculadora simples desenvolvida em Python 3 usando a interface gráfica tkinter
+# Calculadora
+Calculadora simples desenvolvida em **Python3** usando a interface gráfica **tkinter**
